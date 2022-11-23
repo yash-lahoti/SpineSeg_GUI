@@ -1,0 +1,4 @@
+{
+    "data_dir": ['/Users/yashlahoti/PycharmProjects/SpineSeg/train_imgs/train'],
+    "save_dir": ['Users/yashlahoti/PycharmProjects/SpineSeg/train_imgs/mask']
+}

@@ -2,7 +2,7 @@
 Simple GUI for Segmentation
 
 
-Creating Environment:
+**Creating Environment:**
 conda env create -f environment.yml
 
 

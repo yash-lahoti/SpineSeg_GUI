@@ -10,6 +10,8 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 python3 get-pip.py
 
+git clone <copy/link/to/git>
+
 *Install Packages:*
 
 pip3 install argparse opencv-python matplotlib

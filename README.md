@@ -3,7 +3,15 @@ Simple GUI for Segmentation
 
 
 **Creating Environment:**
-conda env create -f environment.yml
+
+*Install Pip:*
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3 get-pip.py
+
+*Install Packages:*
+
+pip3 install argparse opencv-python matplotlib
 
 ----------------------------------------------
 
